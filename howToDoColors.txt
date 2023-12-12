@@ -1,0 +1,6 @@
+https://minecraft.tools/en/armor.php
+
+Good Purple
+/item replace entity @p armor.head with leather_horse_armor{display:{color:7422112},CustomModelData:3} 1
+
+why the hell did i make the horns model 3 its the first one i made

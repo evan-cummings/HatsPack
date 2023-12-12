@@ -1,0 +1,19 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "block/carved_pumpkin"
+ },
+ 
+ "overrides": [
+  {"predicate":  {"custom_model_data":1}, "model": "block/custom/top_hat"},
+  {"predicate":  {"custom_model_data":2}, "model": "block/custom/straw_hat"},
+  {"predicate":  {"custom_model_data":3}, "model": "block/custom/robot_hat"},
+  {"predicate":  {"custom_model_data":4}, "model": "block/custom/sprout"},
+  {"predicate":  {"custom_model_data":5}, "model": "block/custom/beehat"},
+  {"predicate":  {"custom_model_data":6}, "model": "block/custom/santa"},
+  {"predicate":  {"custom_model_data":7}, "model": "block/custom/antlers"},
+ {"predicate":  {"custom_model_data":8}, "model": "block/custom/crystal"},
+{"predicate":  {"custom_model_data":9}, "model": "block/custom/frog"},
+{"predicate":  {"custom_model_data":10}, "model": "block/custom/present"}
+ ]
+}
